@@ -3,6 +3,8 @@
     "demo": "ts-node hello.ts"
   },
   "devDependencies": {
+    "@types/dotenv": "6.1.1",
+    "dotenv": "6.2.0",
     "ts-node": "7.0.1",
     "typescript": "3.2.2"
   }
